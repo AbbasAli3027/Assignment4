@@ -1,0 +1,21 @@
+body {
+  font-family: "Arial", sans-serif;
+}
+
+header {
+  background: url("event-banner.jpg") no-repeat center center;
+  background-size: cover;
+}
+
+.card {
+  border: none;
+}
+
+.card-title {
+  color: #333;
+}
+
+.btn-light {
+  background-color: #fff;
+  border: 1px solid #ddd;
+}
